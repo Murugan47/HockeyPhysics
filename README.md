@@ -23,7 +23,7 @@ DO NOT ENABLE BABY MODE IN THE SETTINGS. YOU HAVE NO IDEA WHAT IS IN STORE FOR Y
 
 ## 🧩 Demo
 
-[![Play Demo](https://img.shields.io/badge/Demo-Click_here-brightgreen)]((https://murugan47.github.io/HockeyPhysics/))
+[![Play Demo](https://img.shields.io/badge/Demo-Click_here-brightgreen)](https://murugan47.github.io/HockeyPhysics/)
 
 Click the button above to try the **live WebGL demo** and feel the chaos — just note that the WebGL version caps some visual and physics features.  
 For the **full experience**, download and run it through Unity.
