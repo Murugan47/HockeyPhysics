@@ -12,7 +12,3 @@
 *.unity linguist-detectable=false
 *.prefab linguist-detectable=false
 *.mat linguist-detectable=false
-
-# Ignore HTML files from affecting repo language stats
-*.html linguist-detectable=false
-*.css linguist-detectable=false
