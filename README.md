@@ -10,12 +10,9 @@ DO NOT ENABLE BABY MODE IN THE SETTINGS. YOU HAVE NO IDEA WHAT IS IN STORE FOR Y
 
 ---
 
-## 💡 Features (so far)
+## Gameplay
 
-- ⚡ **Uncapped Physics Simulation** — The puck doesn’t obey normal laws of speed or friction. Every bounce can send it flying unpredictably.   
-- 🧠 **AI Opponent** — A fast-reacting opponent that matches your chaos energy. Difficulty changes can be made within the Settings!  
-- 🕹️ **Player Controls** — Control the red player with your mouse for 1-1 accuracy of movement within the boundary.  
-- 🔊 **Web Hosted** — Can be played at any time!.
+![hockeyclip](https://github.com/user-attachments/assets/241e87a9-f082-4309-88b5-aed8a49bb67b)
 
 - **NOTE** - If you wish to turn of the sound, there is a effects slider within the settings.
 
