@@ -4,9 +4,7 @@
 > ⚠️ **WebGL Limitations:** The WebGL demo may have limited visual effects, lighting, or physics accuracy due to WebGL constraints. For the full, high-speed experience, open the project directly in Unity.
 
 **Neon Air Hockey** is a Unity project inspired by classic mobile air hockey games — but with a twist.  
-This version breaks traditional limits with **uncapped physics**, **fast collisions**, and **an AI that is buckwild**, creating a **goofy experience**.
-
-DO NOT ENABLE BABY MODE IN THE SETTINGS. YOU HAVE NO IDEA WHAT IS IN STORE FOR YOU!
+This version breaks traditional limits with **uncapped physics**, **fast collisions**, and **an AI that has interchangeable difficulty**, creating a **goofy experience**.
 
 ---
 
